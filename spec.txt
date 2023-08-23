@@ -1,0 +1,5 @@
+rest accessible
+1000 products
+each product;
+ - id, description: `product+id`, price `rnd number (0-100)
+ -
