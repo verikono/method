@@ -2,6 +2,7 @@
 
  ✓ src/MethodService.mts (8)
    ✓ @method/MethodService (8)
+
      ✓ initializes
      ✓ product retrieval (7)
        ✓ gets a valid response
